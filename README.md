@@ -5,7 +5,7 @@ Ideal for applications in the automation of initial stages of cell manufacturing
 
  📂 Dataset
 
-- **Original Dataset**: [NEU Surface Defect Dataset](https://github.com/rccohn/NEU-Cluster) – contains ~1500 labeled images.
+- **Original Dataset**: [NEU Surface Defect Dataset](https://github.com/rccohn/NEU-Cluster) – contains ~1500 labeled images of hot rolled steel sheets.
 - **Augmentation**: The dataset was augmented using [Roboflow](https://roboflow.com) for better variety and class balance.
 - **Classes**:
   - Scratches
