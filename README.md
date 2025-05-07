@@ -73,7 +73,7 @@ Open `Metal_Defect_Detection_YOLO.ipynb` and follow the cells in order.
 
 ---
 
-Thank you for checking out this project!
+Thank you for checking out this project :) !
 
 
 
