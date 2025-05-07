@@ -1,6 +1,7 @@
  🛠️ Metal Surface Defect Detection using YOLOv8
 
 This project fine-tunes a YOLOv8 model to detect six types of surface defects in metals using an augmented version of the NEU Surface Defect Dataset.
+Ideal for applications in the automation of initial stages of cell manufacturing.
 
  📂 Dataset
 
